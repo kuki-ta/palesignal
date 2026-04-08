@@ -44,8 +44,8 @@ I find it unsettling that public conversation about technologies that will resha
 ---
 
 ## Status
-Live at [palesignal.netlify.app](https://palesignal.netlify.app). Solo project.
+Live. Solo project.
 
 ---
 
-*I read everything. — The Archivist*
+*I read everything. —The Archivist*
