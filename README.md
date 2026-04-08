@@ -1,5 +1,5 @@
 # PALESIGNAL
-### Edge technology discovery and civilian threat assessment protocol.
+### Edge technology discovery tool for artifacts of human catastrope or salvation.
 **[palesignal.netlify.app](https://palesignal.netlify.app)**
 
 ---
