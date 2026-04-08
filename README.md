@@ -16,22 +16,22 @@ The aesthetic is cyberpunk. The premise is serious. The Archivist is a fictional
 ## What it does
 
 - **150+ products** across categories, each with an authorized narrative, a suppressed narrative, and an independent AI assessment
-- **Voting** — asset or threat, per product, deduplicated per session
-- **Civilian reports** — open comment field, rate-limited, no account required
-- **AI assessments** — on-demand analysis via the Anthropic API, proxied server-side, with archivist persona and a hard ban on em-dashes
-- **Live data** — everything runs off a Supabase backend; no hardcoded seed data
-- **Streak notifications** — the site notices if you're paying attention
+- **Voting:** asset or threat, per product, deduplicated per session
+- **Civilian reports:** open comment field, rate-limited, no account required
+- **AI assessments:** on-demand analysis via the Anthropic API, proxied server-side, with archivist persona and a hard ban on em-dashes
+- **Live data:** everything runs off a Supabase backend; no hardcoded seed data
+- **Streak notifications:** the site notices if you're paying attention
 
 ---
 
 ## Stack
 
-- **Frontend** — Vanilla HTML/CSS/JS, single file, no framework
-- **Database** — Supabase (PostgreSQL), with RLS on all tables and public read/insert policies
-- **Serverless** — Netlify Functions proxying the Anthropic API (API key server-side only)
-- **AI** — Anthropic API via Claude, assessment prompt tuned for dry, resigned, mildly absurd output
-- **Deployment** — Netlify, connected to GitHub for continuous deployment
-- **Dev environment** — VS Code
+- **Frontend:** Vanilla HTML/CSS/JS, single file, no framework
+- **Database:** Supabase (PostgreSQL), with RLS on all tables and public read/insert policies
+- **Serverless:** Netlify Functions proxying the Anthropic API (API key server-side only)
+- **AI:** Anthropic API via Claude, assessment prompt tuned for dry, resigned, mildly absurd output
+- **Deployment:** Netlify, connected to GitHub for continuous deployment
+- **Dev environment:** VS Code
 
 ---
 
@@ -53,4 +53,4 @@ Live at [palesignal.netlify.app](https://palesignal.netlify.app). Built and ship
 
 ---
 
-*I read everything. — The Archivist*
+*I read everything. -The Archivist*
