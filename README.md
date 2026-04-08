@@ -4,6 +4,14 @@
 
 ---
 
+![PALESIGNAL](home.png)
+
+---
+
+![Threat Matrix](threat-matrix.png)
+
+---
+
 Public conversation about technologies that will reshape everything happens in scattered, unconnected places. Reddit threads, podcasts, Discord servers. No mechanism for consensus, no shared record, no place where the signal actually accumulates.
 
 PALESIGNAL is a structured public record of edge technologies across neural, biotech, robotics, energy, space, quantum, and other categories. Anyone can vote, file a report, and push back on narratives. The signal gets clearer the more people engage.
