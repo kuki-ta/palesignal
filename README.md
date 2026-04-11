@@ -46,7 +46,7 @@ Session tracking uses a cryptographically random ID via `crypto.getRandomValues(
 ---
 
 ## Why I built it
-I find it unsettling that public conversation about technologies that will reshape everything happens in scattered, unconnected places with no way to aggregate what people actually think. PALESIGNAL is an unhinged fictional attempt to address that, with a cyberpunk aesthetic and a basket case archivist. For the chaos of it.
+I find it unsettling that public conversation about technologies that will reshape everything happens in scattered, unconnected places with no way to aggregate what people actually think. PALESIGNAL is an unhinged fictional attempt to address that, with a cyberpunk aesthetic and a basket case Archivist. For the chaos of it.
 
 ---
 
