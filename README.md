@@ -1,6 +1,5 @@
 # PALESIGNAL
 ### Edge technology discovery tool for artifacts of human catastrophe or salvation.
-**[palesignal.netlify.app](https://palesignal.netlify.app)**
 
 ---
 
