@@ -21,13 +21,13 @@ The aesthetic is cyberpunk. The premise is serious. The Archivist is disillusion
 ---
 
 ## What it does
-- **150+ products** across 11 categories, each with an authorized narrative, a suppressed narrative, and an independent AI assessment
-- **Voting:** asset or threat, per product, deduplicated per session
-- **Civilian reports:** open comment field, rate-limited, no account required
-- **AI assessments:** on-demand analysis via the Anthropic API, proxied server-side
-- **3D Threat Matrix:** interactive scatter plot of all products by hype, threat level, and TRL. Drag to rotate, click to open
-- **Live data:** everything runs off a Supabase backend
-- **Shareable URLs:** every product has a direct link
+* **160 products** across 11 categories, each with an authorized narrative, a suppressed narrative, and an independent AI assessment
+* **Voting:** drag a spectrum slider to position your assessment between threat and asset; your vote and the crowd consensus are shown simultaneously as two needles
+* **Civilian reports:** open comment field, rate-limited, no account required
+* **AI assessments:** on-demand analysis via the Anthropic API, proxied server-side
+* **3D Threat Matrix:** interactive scatter plot of all products by hype, threat level, and TRL. Drag to rotate, scroll to zoom, click to open, filter by category
+* **Live data:** everything runs off a Supabase backend
+* **Shareable URLs:** every product has a direct link
 
 ---
 
@@ -52,7 +52,7 @@ I find it unsettling that public conversation about technologies that will resha
 ---
 
 ## Status
-Live. Solo project.
+Live. Unlisted solo project.
 
 ---
 
