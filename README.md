@@ -11,8 +11,6 @@
 
 ---
 
-Public conversation about technologies that will reshape everything happens in scattered, unconnected places. Reddit threads, podcasts, Discord servers. No mechanism for consensus, no shared record, no place where the signal actually accumulates.
-
 PALESIGNAL is a structured public record of edge technologies across neural, biotech, robotics, energy, space, quantum, and other categories. Anyone can vote, file a report, and push back on narratives. The signal gets clearer the more people engage.
 
 The aesthetic is cyberpunk. The premise is serious. The Archivist is disillusioned. But you don't have to buy the lore to find the database useful.
@@ -46,7 +44,7 @@ Session tracking uses a cryptographically random ID via `crypto.getRandomValues(
 ---
 
 ## Why I built it
-I find it unsettling that public conversation about technologies that will reshape everything happens in scattered, unconnected places with no way to aggregate what people actually think. PALESIGNAL is an unhinged fictional attempt to address that, with a cyberpunk aesthetic and a basket case Archivist. For the chaos of it.
+It's unsettling that public discourse about technologies that will reshape everything happens in scattered, unconnected places with no way to aggregate what people think. PALESIGNAL is a satirical and fictional attempt to address that, with a cyberpunk aesthetic and a basket case Archivist. Enjoy the chaos!
 
 ---
 
