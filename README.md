@@ -52,7 +52,3 @@ I find it unsettling that public conversation about technologies that will resha
 
 ## Status
 Live. Unlisted solo project.
-
----
-
-*I read everything. —The Archivist*
