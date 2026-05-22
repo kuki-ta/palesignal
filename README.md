@@ -2,7 +2,7 @@
 
 PALESIGNAL is a structured public record of edge technologies across neural, biotech, robotics, energy, space, quantum, and other categories. Anyone can vote, file a report, and push back on narratives. The signal gets clearer the more people engage.
 
-The aesthetic is cyberpunk. The premise is serious. The Archivist is disillusioned. But you don't have to buy the lore to find the database useful.
+The aesthetic is cyberpunk. The premise is serious. But you don't have to buy the lore to find the database useful.
 
 ---
 
