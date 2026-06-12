@@ -20,23 +20,13 @@ The aesthetic is cyberpunk. The premise is serious. But you don't have to buy th
 * **Civilian reports:** open comment field, rate-limited, no account required
 * **AI assessments:** on-demand analysis via the Anthropic API, proxied server-side
 * **3D Threat Matrix:** interactive scatter plot of all products by hype, threat level, and TRL. Drag to rotate, scroll to zoom, click to open, filter by category
-* **Live data:** everything runs off a Supabase backend
+* **Live data:** everything runs off a live backend
 * **Shareable URLs:** every product has a direct link
 
 ---
 
-## Stack
-- **Frontend:** Vanilla HTML/CSS/JS, single file, no framework
-- **3D visualization:** Three.js
-- **Database:** Supabase (PostgreSQL), RLS on all tables
-- **Serverless:** Netlify Functions proxying the Anthropic API
-- **AI:** Claude (Anthropic), assessment prompt tuned for dry and specific output
-- **Deployment:** Netlify, connected to GitHub
-
----
-
 ## Privacy
-Session tracking uses a cryptographically random ID via `crypto.getRandomValues()`, stored in `sessionStorage` only. Dies when the tab closes. No cookies, no accounts, no cross-session fingerprinting.
+Session tracking uses a cryptographically random ID. Dies when the tab closes. No cookies, no accounts, no cross-session fingerprinting.
 
 ---
 
